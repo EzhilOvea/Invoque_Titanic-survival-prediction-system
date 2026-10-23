@@ -34,6 +34,8 @@ The Titanic dataset (`train.csv`) contains passenger details such as age, sex, p
 - Recall
 - F1-score
 - Confusion Matrix
+-
+-   project demo link:https://drive.google.com/file/d/1e5Snz2vthjiyGFCQq_88V4oKWbZevmcH/view?usp=sharing
 
 ## Outcome
 The models predict passenger survival based on the available data and compare their performance.
